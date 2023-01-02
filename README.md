@@ -1,0 +1,3 @@
+# CDJ-100New-Life
+
+Added to the usb CN13, after connecting a pendrive, the Stm32f746G starts, but it does not read the music, yet...
